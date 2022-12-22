@@ -6,8 +6,8 @@ Random coder
 
 * 🌍  I'm based in Damascus (and based)
 * 🚀  I'm currently working on [Based ay website](http://baseday.tk)
-* 🧠  I'm learning New frameworks
-* ⚡
+* 🧠  I'm learning New frameworks
+
 
 ### Skills
 
