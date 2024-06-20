@@ -4,9 +4,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Random coder
 ------------
 
-* 🌍  I'm based in Damascus (and based)
-* 🚀  I'm currently working on [Based ay website](http://baseday.tk)
-* 🧠  I'm learning New frameworks
+
 
 
 ### Skills
